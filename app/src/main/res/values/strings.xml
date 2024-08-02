@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab 04</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="i_m_parked_here">I\'m parked here</string>
+    <string name="park_button">Park Button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail_fragment">Detail Fragment</string>
+</resources>
